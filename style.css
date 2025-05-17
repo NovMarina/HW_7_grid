@@ -1,0 +1,43 @@
+@import url('https://fonts.googleapis.com/css2?family=Playwrite+HR+Lijeva:wght@100..400&family=Poetsen+One&family=Red+Hat+Text:ital,wght@0,300..700;1,300..700&display=swap');
+
+.container {
+    color: white;
+    height: 100px;
+    font-size: 3rem;
+    font-weight: 400;
+    margin: 0 auto;
+    padding: 0 0;
+    text-align: center;
+}
+
+.first {
+    background-color: #c00000;
+}
+
+.second {
+    background-color: #e36c0a;
+}
+
+.third {
+    background-color: #ffc000;
+}
+
+.fourth {
+    background-color: #00b050;
+}
+
+.fifth {
+    background-color: #00b0f0;
+}
+
+@media (max-width: 575px) {
+
+}
+
+@media (max-width: 767px) {
+
+}
+
+@media (max-width: 1199px) {
+
+}
