@@ -6,7 +6,7 @@
     font-size: 3rem;
     font-weight: 400;
     margin: 0 auto;
-    padding: 0 0;
+    padding: 0 15px;
     text-align: center;
 }
 
@@ -30,14 +30,8 @@
     background-color: #00b0f0;
 }
 
-@media (max-width: 575px) {
-
-}
-
-@media (max-width: 767px) {
-
-}
-
-@media (max-width: 1199px) {
-
+@media (min-width: 1200px) {
+    .container {
+        padding-left: 15%;
+    }
 }
